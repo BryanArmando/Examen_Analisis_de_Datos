@@ -43,6 +43,16 @@ Web scraping
 
 La página seleccionada y es "Olympics.com" la cual es la página oficial de los juegos olímpicos. Nos centraremos en la seccion de noticias.
 
+Como primer paso se llama a todas las librerias necesarias para realizar web scraping, además, se definen 2 funciones las cuales se usaran para ubicar correctamente los datos.
+
+<img>
+
+Se  ubica el responsive y el enalce de donde de extraera la informacion. En este caso es la pagina oficial de los juegos olimpicos en la seccion noticias.
+
+Ademas, se definen la etiqueta contenedora de donde se extraera los datos, y las etiquetas especificas, junto con las clases que la acompañan y definen a la etiqueta.
+
+<img>
+
 
 
 
