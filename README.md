@@ -118,6 +118,11 @@ Una vez activado el servicio nos conectamos al mismo y realizamos la importacion
 
 <img src="https://github.com/BryanArmando/Examen_Analisis_de_Datos/blob/main/im%C3%A1genes/23.JPG" alt="img23"/>
 
-<img src="https://github.com/BryanArmando/Examen_Analisis_de_Datos/blob/main/im%C3%A1genes/23.JPG" alt="img23"/>
+<img src="https://github.com/BryanArmando/Examen_Analisis_de_Datos/blob/main/im%C3%A1genes/24.JPG" alt="img24"/>
 
-   
+
+Ahora se genera la base de datos en MongoBd Atlas
+
+se genera el proyecto y una vez realizado de realiza la conexion con la aplicacion de mongo DB compas, para finalizar con la importacion de cada uno de los archivos y bases de datos generadas en los anteriores literales. En la base de datos se podrá generar colecciones para realizar un correcto orden de cada una
+
+<img src="https://github.com/BryanArmando/Examen_Analisis_de_Datos/blob/main/im%C3%A1genes/25.JPG" alt="img25"/>
