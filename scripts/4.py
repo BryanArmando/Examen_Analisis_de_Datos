@@ -3,7 +3,7 @@ import couchdb
 import json
 import time
 
-couch=couchdb.Server('http://Armand:1998@127.0.0.1:5984')
+couch=couchdb.Server('http://******:1*****8@127.0.0.1:5984')
 nombredb='juegosolim'
 db=couch[nombredb]
 i=1
