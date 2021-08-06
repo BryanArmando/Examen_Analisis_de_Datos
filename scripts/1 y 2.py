@@ -5,10 +5,10 @@ from tweepy.streaming import StreamListener
 import json
 
 
-ckey = "RHI316f9DQO22MYdsCSQk3098"
-csecret = "CGBGlVXcNnTWX4DjMaxhdusI8TjgBqn7IRrKK0vns1GgFyb3bN"
-atoken = "1046186563737178113-5VYSQUNFEB7MYkHxDbWyHP3zLJ8VVp"
-asecret = "GJ1GKY2nJx6wYGNjjw5zC3nMeUL2hgghcrqQMlJct7HN6"
+ckey = ""
+csecret = ""
+atoken = ""
+asecret = ""
 
 class listener(StreamListener):
     
@@ -32,7 +32,7 @@ auth.set_access_token(atoken, asecret)
 twitterStream = Stream(auth, listener())
 
 '''========couchdb'=========='''
-server = couchdb.Server('http://Armand:1998@127.0.0.1:5984')  
+server = couchdb.Server('http://****:****@127.0.0.1:5984')  
 try:
     db = server.create('juegosolimpicosquito')
     #db = server.create('juegosolimpicos')
